@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RayMarcher/RayMarcher.iml" filepath="$PROJECT_DIR$/RayMarcher/RayMarcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/binomial-queue/binomial-queue.iml" filepath="$PROJECT_DIR$/binomial-queue/binomial-queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/dna-alignment/dna-alignment.iml" filepath="$PROJECT_DIR$/dna-alignment/dna-alignment.iml" />
