@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RayMarcher/RayMarcher.iml" filepath="$PROJECT_DIR$/RayMarcher/RayMarcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/binomial-queue/binomial-queue.iml" filepath="$PROJECT_DIR$/binomial-queue/binomial-queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/dna-alignment/dna-alignment.iml" filepath="$PROJECT_DIR$/dna-alignment/dna-alignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/quicksort/quicksort.iml" filepath="$PROJECT_DIR$/quicksort/quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RayMarcher/raymarcher.iml" filepath="$PROJECT_DIR$/RayMarcher/raymarcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/routing-wires/routing-wires.iml" filepath="$PROJECT_DIR$/routing-wires/routing-wires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vending-machine/vending-machine.iml" filepath="$PROJECT_DIR$/vending-machine/vending-machine.iml" />
     </modules>
   </component>
 </project>
